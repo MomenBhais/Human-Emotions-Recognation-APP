@@ -5,6 +5,8 @@
 ## 📌 Project Overview
 The **Human Emotions Recognition APP** is an advanced machine learning-based application designed to analyze human emotions through facial expressions. By leveraging state-of-the-art AI models, this application provides real-time emotion recognition, making it ideal for various domains such as healthcare, customer service, and human-computer interaction.
 
+![Image](https://github.com/user-attachments/assets/f8ce7350-97cc-4f3e-bf93-309d4c9afd1f)
+
 ## 🚀 Features
 - 🎭 **Real-time Emotion Detection**: Identify emotions such as happiness, sadness, anger, surprise, and more.
 - 📷 **Live Camera & Image Upload Support**: Process emotions from both live video feeds and static images.
