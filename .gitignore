@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.env
+*.env
+
+# Data & model files
+datasets/
+*.h5
+*.pkl
+*.ckpt
+*.tflite
+
+# Logs & debugging files
+logs/
+*.log
+*.out
+*.err
+
+# Python cache files
+*.pyc
+*.pyo
+.DS_Store
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.iml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Docker & Deployment
+*.dockerfile
+docker-compose.yml

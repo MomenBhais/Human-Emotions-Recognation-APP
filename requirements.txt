@@ -1,0 +1,12 @@
+tensorflow>=2.8.0
+numpy
+opencv-python
+flask
+dlib
+streamlit
+matplotlib
+pandas
+scikit-learn
+requests
+pillow
+gunicorn
